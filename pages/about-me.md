@@ -21,9 +21,12 @@ Also, here is an excellent <b>commentary</b> on our work at <b>Nature Communicat
 * ...
 
 #### My Education, Research, and Teaching Experience:
-###### 2024.09-:  Research Scientist in Physical & Biogeochemical Oceanography
+###### 2025.09-:  Senior Research Scientist in Physical Oceanography
+* <i><b>Gulf of Maine Research Institute (GMRI)</b></i>, Portland, ME   
+
+###### 2024.09-2025.08:  Research Scientist in Physical & Biogeochemical Oceanography
 * <i><b>University of Connecticut (UConn)</b></i>, Groton, CT   
-* I am currently working as a <b>Lead-PI</b> on a project (<i>NOAA MAPP - Advancing an Integrated NOAA Capability for Climate Predictions and Projections in Support of NOAA’s Climate Ecosystems Fisheries Initiative</i>) about "<b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b>".
+* I worked as a <b>Lead-PI</b> on a project (<i>NOAA MAPP - Advancing an Integrated NOAA Capability for Climate Predictions and Projections in Support of NOAA’s Climate Ecosystems Fisheries Initiative</i>) about "<b>Projecting future changes in the Gulf Stream warm-core rings and their impacts on the Northeast U.S. Large Marine Ecosystem in a changing climate using regional MOM6 simulations</b>".
 * Co-PIs and collaborators: [Dr. Enrique Curchitser (Rutgers)][1], [Dr. Samantha Siedlecki (UConn)][9], [Dr. Paula Fratantoni (NOAA NMFS)][6], [Dr. Michael Alexander (NOAA PSL)][17], and [Dr. Andrew Ross (NOAA GFDL)][18].
 
 ###### 2024.01-2024.03: Course Lecturer in Physical Oceanography
